@@ -1,18 +1,31 @@
 [project]
-name = "hinglish-npl"
-version = "0.1.0"
-description = "Hinglish (Roman Hindi + English) NLP toolkit - Sentiment, Analysis & more"
+name = "hinglish-nlp"
+version = "0.2.0"
+description = "Hinglish (Roman Hindi + English) NLP toolkit - Sentiment, Emotion, Sarcasm & more"
 readme = "README.md"
 requires-python = ">=3.9"
 license = {text = "MIT"}
-authors = [{name = "Lalit"}]
+authors = [
+    {name = "Lalit", 
+    email = "official.lalitpal08@gmail.com",
+    }
+]
+keywords = ["hinglish", "nlp", "sentiment", "hindi", "roman-hindi", "text-analysis"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Topic :: Text Processing :: Linguistic",
+    "Natural Language :: Hindi",
+]
 
 dependencies = [
     "pydantic>=2.0",
 ]
 
 [project.urls]
-Homepage = "https://github.com/yourusername/hinglish"
+Homepage = "https://github.com/Lalit2206/hinglish-nlp"
+Repository = "https://github.com/Lalit2206/hinglish-nlp"
 
 [tool.setuptools.packages.find]
 where = ["."]
