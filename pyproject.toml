@@ -1,5 +1,5 @@
 [project]
-name = "hinglish"
+name = "hinglish-npl"
 version = "0.1.0"
 description = "Hinglish (Roman Hindi + English) NLP toolkit - Sentiment, Analysis & more"
 readme = "README.md"

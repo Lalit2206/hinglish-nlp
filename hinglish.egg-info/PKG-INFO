@@ -8,3 +8,6 @@ Project-URL: Homepage, https://github.com/yourusername/hinglish
 Requires-Python: >=3.9
 Description-Content-Type: text/markdown
 Requires-Dist: pydantic>=2.0
+
+# hinglish-nlp
+Hinglish NLP Toolkit - Sentiment Analysis &amp; Text Understanding for Roman Hindi + English
