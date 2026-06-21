@@ -1,0 +1,18 @@
+[project]
+name = "hinglish"
+version = "0.1.0"
+description = "Hinglish (Roman Hindi + English) NLP toolkit - Sentiment, Analysis & more"
+readme = "README.md"
+requires-python = ">=3.9"
+license = {text = "MIT"}
+authors = [{name = "Lalit"}]
+
+dependencies = [
+    "pydantic>=2.0",
+]
+
+[project.urls]
+Homepage = "https://github.com/yourusername/hinglish"
+
+[tool.setuptools.packages.find]
+where = ["."]

@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+hinglish/__init__.py
+hinglish/analyzer.py
+hinglish.egg-info/PKG-INFO
+hinglish.egg-info/SOURCES.txt
+hinglish.egg-info/dependency_links.txt
+hinglish.egg-info/requires.txt
+hinglish.egg-info/top_level.txt
